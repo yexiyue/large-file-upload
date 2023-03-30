@@ -1,0 +1,7 @@
+import './upload/single'
+import './upload/base64'
+import './upload/abbre'
+import './upload/progress'
+import './upload/multiple'
+import './upload/dragUpload'
+import './upload/slice'
